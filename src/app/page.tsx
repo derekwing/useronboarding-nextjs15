@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import OnboardWizard from "@/components/onboardwizard/OnboardWizard";
 import { db } from "@/lib/db";
 
