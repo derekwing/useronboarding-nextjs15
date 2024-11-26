@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic";
+
 import AdminSection from "@/components/AdminSection";
 import { db } from "@/lib/db";
 
