@@ -18,8 +18,6 @@ export default async function Page() {
     );
     formContent = res.rows;
   }
-  console.log("userInfo:", user);
-  console.log("formContent:", formContent);
 
   return (
     <main className="flex flex-col items-center">
